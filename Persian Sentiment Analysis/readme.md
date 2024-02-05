@@ -4,4 +4,4 @@ Dataset contains comments on different orders from restaurant and other places i
 
 Different models were made to classify the comments into two categories: Happy, Sad
 
-For more information check the report and notebook :)
+For more information check the report and notebook
